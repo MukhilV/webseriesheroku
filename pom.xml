@@ -40,17 +40,19 @@
 		
 		<!-- https://mvnrepository.com/artifact/org.postgresql/postgresql -->
 <!-- https://mvnrepository.com/artifact/org.postgresql/postgresql -->
+<!-- https://mvnrepository.com/artifact/org.postgresql/postgresql -->
 <dependency>
     <groupId>org.postgresql</groupId>
     <artifactId>postgresql</artifactId>
-    <version>42.2.20</version>
+    <version>42.2.5</version>
 </dependency>
+
 
 		
 		
 	</dependencies>
 
-<!--  
+ 
 	<build>
 		<plugins>
 			<plugin>
@@ -59,6 +61,6 @@
 			</plugin>
 		</plugins>
 	</build>
-	-->
+	
 
 </project>
